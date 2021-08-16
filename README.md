@@ -3,7 +3,7 @@
 
 My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 
-### Connect with me:
+## <img height="40" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/kyubey.gif"/> Connect with me:
 
 [<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="#FFF" />][website]
 [<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/ionic-team/ionicons/master/src/svg/logo-medium.svg" color="#FFF" />][medium]
@@ -29,6 +29,8 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
+<br>
 
 ## :chart_with_upwards_trend: Stats
 [![Maneesha Indrachapa's github stats](https://github-readme-stats.vercel.app/api?username=maneeshaindrachapa&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshaindrachapa&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
