@@ -17,6 +17,7 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/python.svg" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/php.svg" />
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/nodejs.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/unity.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/csharp.svg" />
 <img align="left" alt="Ubunutu" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/linux/ubuntu.svg" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/js-libraries-frameworks/angular.svg" />
@@ -27,7 +28,7 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="visual-studio" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/code-editors/visual-studio.svg" />
 <img align="left" alt="tomcat" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/tomcat.svg" />
 <img align="left" alt="apache" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/apache.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/shell/shell-alt.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/bash.svg" />
 <br>
 <br>
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/version/git.svg" />
