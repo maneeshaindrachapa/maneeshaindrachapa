@@ -23,16 +23,20 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/js-libraries-frameworks/angular.svg" />
 <img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/js-libraries-frameworks/jquery.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/database/mysql.svg" />
+<br>
+<br>
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/ionic.svg" />
+<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/spring.svg" />
 <img align="left" alt="hadoop" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/database/hadoop.svg" />
 <img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/database/mongodb.svg" />
 <img align="left" alt="visual-studio" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/code-editors/visual-studio.svg" />
 <img align="left" alt="tomcat" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/tomcat.svg" />
 <img align="left" alt="apache" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/apache.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/bash.svg" />
-<br>
-<br>
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/version/git.svg" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/css3.svg" />
+<br>
+<br>
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/html5.svg" />
 <img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/js.svg" />
 <br>
