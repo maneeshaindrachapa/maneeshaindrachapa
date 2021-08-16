@@ -28,6 +28,7 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="tomcat" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/tomcat.svg" />
 <img align="left" alt="apache" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/apache.svg" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/version/git.svg" />
+<br>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/shell/shell-alt.svg" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/css3.svg" />
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/html5.svg" />
