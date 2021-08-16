@@ -3,12 +3,13 @@
 
 My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 
-## <img height="40" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/kyubey.gif"/> Connect with me:
+## <img height="40" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/kyubey.gif"/> Connect With Me
 
-[<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="#FFF" />][website]
-[<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/ionic-team/ionicons/master/src/svg/logo-medium.svg" color="#FFF" />][medium]
-[<img align="left" alt="maneeshaindrachapa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="#FFF"/>][linkedin]
-[<img align="left" alt="cl0ud_piercer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="#FFF"/>][instagram]
+[<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src=https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/web.svg" color="#FFF" />][website]
+[<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/medium.svg"/>][medium]
+[<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="maneeshaindrachapa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/linkedin.svg"/>][linkedin]
+[<img align="left" alt="cl0ud_piercer | Instagram" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/instagram.svg"/>][instagram]
 <br>
 
 
@@ -23,20 +24,19 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/js-libraries-frameworks/angular.svg" />
 <img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/js-libraries-frameworks/jquery.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/database/mysql.svg" />
-<br>
-<br>
+
+
 <img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/js.svg" style="margin-top:10px"/>
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/spring.svg" />
 <img align="left" alt="hadoop" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/database/hadoop.svg" />
 <img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/database/mongodb.svg" />
-<img align="left" alt="visual-studio" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/code-editors/visual-studio.svg" />
+<img align="left" alt="visual-studio" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/code-editors/vscode.svg" />
 <img align="left" alt="tomcat" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/tomcat.svg" />
 <img align="left" alt="apache" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/server/apache.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/bash.svg" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/version/git.svg" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/css3.svg" />
-<br>
-<br>
+
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/html5.svg" style="margin-top:10px"/>
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/ionic.svg" />
 <br>
@@ -49,3 +49,4 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 [instagram]: https://www.instagram.com/cl0ud_piercer/
 [linkedin]: https://www.linkedin.com/in/maneeshaindrachapa/
 [medium]: https://maneeshaindrachapa.medium.com/
+[stackoverflow]: https://stackoverflow.com/users/16497617/maneesha-indrachapa
