@@ -3,7 +3,7 @@
 
 My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 
-## <img height="40" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/rasenshuriken.gif"/> Connect With Me
+## <img height="80" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/rasenshuriken.gif"/> Connect With Me
 
 [<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/web.svg" color="#FFF" />][website]
 [<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/medium.svg"/>][medium]
