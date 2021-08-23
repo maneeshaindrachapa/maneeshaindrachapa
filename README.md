@@ -37,9 +37,6 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/ionic.svg" style="margin-bottom:5px"/>
 <br>
 <br>
-<br>
-<br>
-
 
 ## Stats
 [![Maneesha Indrachapa's github stats](https://github-readme-stats.vercel.app/api?username=maneeshaindrachapa&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshaindrachapa&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
