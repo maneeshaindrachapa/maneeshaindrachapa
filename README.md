@@ -3,7 +3,7 @@
 
 My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 
-## <img height="80" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/rasenshuriken.gif"/> Connect With Me
+## Connect With Me
 
 [<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/web.svg" color="#FFF" />][website]
 [<img align="left" alt="maneeshaindrachapa.github.io" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/medium.svg"/>][medium]
@@ -11,11 +11,8 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 [<img align="left" alt="maneeshaindrachapa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/linkedin.svg"/>][linkedin]
 [<img align="left" alt="cl0ud_piercer | Instagram" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/instagram.svg"/>][instagram]
 <br>
-<br>
-<br>
 
-
-## <img height="30" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/kyubey.gif"/> Tools and Technologies
+## Tools and Technologies
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/java.svg" style="margin-bottom:5px"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/python.svg" style="margin-bottom:5px"/>
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/php.svg" style="margin-bottom:5px"/>
@@ -40,9 +37,11 @@ My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/ionic.svg" style="margin-bottom:5px"/>
 <br>
 <br>
+<br>
+<br>
 
 
-## <img height="80" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/naruto-rasengan.gif"/> Stats
+## Stats
 [![Maneesha Indrachapa's github stats](https://github-readme-stats.vercel.app/api?username=maneeshaindrachapa&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshaindrachapa&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://maneeshaindrachapa.github.io/
