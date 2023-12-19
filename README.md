@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Maneesha Indrachapa and I am a Software Engineer at WSO2.
+I am a passionate software engineer currently working as an employee at Cariad SE, a Volkswagen Group software company located in the Wolfsburg, Germany. My expertise lies in full-stack software development. I thrive on tackling complex problems and enjoy creating solutions that make a meaningful impact.
 
 ## Connect With Me
 
