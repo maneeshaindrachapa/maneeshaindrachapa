@@ -11,7 +11,7 @@ I am a passionate software engineer currently working as an employee at Cariad S
 [<img align="left" alt="maneeshaindrachapa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/linkedin.svg"/>][linkedin]
 [<img align="left" alt="cl0ud_piercer | Instagram" width="22px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/social/instagram.svg"/>][instagram]
 <br>
-
+<!--
 ## Tools and Technologies
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/java.svg" style="margin-bottom:5px"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/languages/python.svg" style="margin-bottom:5px"/>
@@ -36,7 +36,7 @@ I am a passionate software engineer currently working as an employee at Cariad S
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/web-languages/html5.svg" style="margin-bottom:5px"/>
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/maneeshaindrachapa/maneeshaindrachapa/master/assets/icons/frameworks/ionic.svg" style="margin-bottom:5px"/>
 <br>
-<br>
+<br>-->
 
 [website]: https://maneeshaindrachapa.github.io/
 [instagram]: https://www.instagram.com/cl0ud_piercer/
